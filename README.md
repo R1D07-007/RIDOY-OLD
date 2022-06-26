@@ -19,11 +19,12 @@ pip install bs4
 pkg install git
 
 rm -rf RIDOY-OLD
+
 git clone https://github.com/R1D07-007/RIDOY-OLD
 
 cd RIDOY-OLD
 
 python RIDOY-OLD.py
 
-git clone https://github.com/R1D07-007/RIDOY-OLD
+
 
