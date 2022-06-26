@@ -1,6 +1,7 @@
 # RIDOY-OLD
 
 💚💚PAID TOLLS💚
+
 pkg update
 pkg upgrade
 pkg install python
