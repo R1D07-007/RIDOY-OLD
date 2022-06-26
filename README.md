@@ -1,4 +1,5 @@
-# R/
+# RIDOY-OLD
+
 💚💚PAID TOLLS💚
 pkg update
 pkg upgrade
