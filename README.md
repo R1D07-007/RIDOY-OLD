@@ -1,2 +1,0 @@
-💚💚PAID TOLLS💚
-# RIDOY-OLD
